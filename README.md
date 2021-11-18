@@ -1,8 +1,25 @@
 <html>
-<body>
+<body style="background-color:cyan;">
 <h1> Estate & Car </h1>
-<center>
-  <img src="https://github.com/abolfazlzareikma/estate_car/blob/main/car-estate.jpg" border-radius:20px>
-  </center>
+  <img src="https://github.com/abolfazlzareikma/estate_car/blob/main/car-estate.jpg">
   </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
