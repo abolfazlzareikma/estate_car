@@ -7,7 +7,6 @@
 
 <img src="https://github.com/abolfazlzareikma/estate_car/blob/main/car-estate.jpg">
   <h2> Video </h2>
-<video src= "https://github.com/abolfazlzareikma/estate_car/raw/main/afz-source-github-car-estate.mp4" type= "video/mp4">
-</video>
+<video src= "https://github.com/abolfazlzareikma/estate_car/raw/main/afz-source-github-car-estate.mp4" </video>
 </body>
 </html>
